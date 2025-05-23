@@ -5,6 +5,7 @@ This program is designed for beginners and baseball fans who are interested in l
 
 ## What to Expect
 
+### Expectation Overview
 Each session notebook will include:
 - Objectives: what you’ll learn in the session
 - Topics Covered: key statistics and Python concepts
@@ -13,7 +14,14 @@ Each session notebook will include:
 - Activity Questions: exercises with hints to guide your learning
 - Helpful Links: for further exploration
 
-## Session Overview
+Listed below is the format for the course and expectations for engagement:
+- Each session will be one hour long.
+- Students should expect to spend one to two hours per week on assignments outside of class.
+- Answer keys for assignments will be posted one to two days before they are due. An example answer key is already available.
+- This approach is subject to adjustment as the course progress and based on students needs and students' interests.
+- Please feel free to add questions to our [repos discussion board](https://github.com/jasongoldfarb/PythonBaseballStats/discussions). I will create a new discussion after each meeting. Feel free to also reach out via text or email.
+
+### Session Overview
 - Session 1: Introduction to Python and pybaseball
 
 	Get started with Python, Jupyter notebooks, and the basics of importing and exploring baseball data.
