@@ -1,5 +1,5 @@
 # Summer Program: Statistics, Python, and Baseball
-Welcome to the 5-session summer program focused on basic statistics, Python programming, and baseball analytics using the pybaseball package.
+Welcome to the 5-session summer program focused on basic statistics, Python programming, and baseball analytics using the `pybaseball` package.
 
 This program is designed for beginners and baseball fans who are interested in learning how to analyze real-world sports data using Python. By the end of the program, you’ll have had an introduction into some of the essential statistical concepts and Python skills, all while exploring baseball data.
 
@@ -32,5 +32,5 @@ Each session notebook will include:
 
 ## Other Information
 - **Duration:** 5 Sessions (June 2 – August 4)
-- **Tools:** Python Notebooks, pybaseball, pandas, matplotlib
-- **Install:** `- pip install pybaseball`
+- **Tools:** Python Notebooks, pybaseball, pandas, matplotlib, and more
+- [Python Package: `pybaseball`](https://github.com/jldbc/pybaseball)
