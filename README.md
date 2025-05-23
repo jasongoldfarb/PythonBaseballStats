@@ -34,3 +34,5 @@ Each session notebook will include:
 - **Duration:** 5 Sessions (June 2 – August 4)
 - **Tools:** Python Notebooks, pybaseball, pandas, matplotlib, and more
 - [Python Package: `pybaseball`](https://github.com/jldbc/pybaseball)
+    - [Examples Using the `pybaseball` Data Sets](https://github.com/jldbc/pybaseball/tree/master/docs)
+    - [Example Analyses Using the `pybaseball` Data](https://github.com/jldbc/pybaseball/tree/master/EXAMPLES)
