@@ -44,3 +44,7 @@ Listed below is the format for the course and expectations for engagement:
 - [Python Package: `pybaseball`](https://github.com/jldbc/pybaseball)
     - [Examples Using the `pybaseball` Data Sets](https://github.com/jldbc/pybaseball/tree/master/docs)
     - [Example Analyses Using the `pybaseball` Data](https://github.com/jldbc/pybaseball/tree/master/EXAMPLES)
+- Python and Pandas Resources:
+   - [Python Tutorial](https://www.w3schools.com/python/)
+   - [Pandas Tutorial](https://www.w3schools.com/python/pandas/)
+   - [Pandas Getting Started Tutorial](https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html#min-tut-03-subset)
